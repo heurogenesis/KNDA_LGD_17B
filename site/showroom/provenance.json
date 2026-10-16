@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-16 Asia/Seoul",
+  "referenceImage": "public/experience/smart-living-concept.png",
+  "images": [
+    {
+      "name": "living.png",
+      "bytes": 2480843,
+      "source": "OpenAI built-in ImageGen; generated concept viewpoint",
+      "sha256": "b6fd91ecaf80f14612a80342c2febbcd4bb01ea751071a215f80b15146a942bb"
+    },
+    {
+      "name": "kitchen.png",
+      "bytes": 2409489,
+      "source": "OpenAI built-in ImageGen; generated concept viewpoint",
+      "sha256": "48aa87ad00d57a2fa2222e9b06f3ff128576524f73c82596b91e48efcd40eea5"
+    },
+    {
+      "name": "dress.png",
+      "bytes": 2638250,
+      "source": "OpenAI built-in ImageGen; generated concept viewpoint",
+      "sha256": "e8e7d4ef20cf9c293fd2367c50a1e6a4e1281b3b73802eae840a586aee217b1d"
+    }
+  ],
+  "prompts": "docs/SHOWROOM-IMAGE-PROMPTS.md",
+  "referenceSha256": "1aea5f9c99c37aab8a979bc89e3f8a19eea8561f48bf741d78643ea34c91d6a7"
+}

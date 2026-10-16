@@ -1,0 +1,8 @@
+:HL["/KNDA_LGD_17B/_next/static/css/d9481bdfb7b8824b.css","style"]
+:HL["/KNDA_LGD_17B/_next/static/css/87fd67ab914723be.css","style"]
+:HL["/KNDA_LGD_17B/_next/static/css/c9f38e82b78bfe0d.css","style"]
+:HL["/KNDA_LGD_17B/_next/static/css/7fcc7e73baf69fa1.css","style"]
+:HL["/KNDA_LGD_17B/_next/static/css/ff3cffc5ebc6ad6f.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"walk","h":96,"c":"$Q2"}]]
+0:{"b":"PM2I0M7wuoAhgcyQYp_0V","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

@@ -1,0 +1,230 @@
+{
+  "checkedAt": "2026-10-16 Asia/Seoul",
+  "records": [
+    {
+      "model": "OLED65C5ENA",
+      "file": "OLED65C5ENA.webp",
+      "source": "https://www.lge.co.kr/kr/images/tvs/md10570837/gallery/medium01.jpg",
+      "sourcePage": "https://www.lge.co.kr/product/tvs/oled65c5ena-stand",
+      "bytes": 95552,
+      "sha256": "f5f35031dec20539d411e27c266c52edc4e41e5f9427db297781a2b90c8d920d",
+      "rights": "LG Electronics; local concept preview only; no reuse license asserted"
+    },
+    {
+      "model": "FX25ESER",
+      "file": "FX25ESER.webp",
+      "source": "https://www.lge.co.kr/kr/images/washing-machines/md10295853/gallery/medium01.jpg",
+      "sourcePage": "https://www.lge.co.kr/product/washing-machines/fx25eser",
+      "bytes": 30528,
+      "sha256": "99f3fe0560a80ae19cc2cad896b09ed7f2b1ad1fcd5b3a06d9e7f5b6ef32533b",
+      "rights": "LG Electronics; local concept preview only; no reuse license asserted"
+    },
+    {
+      "model": "WA2525MEZF",
+      "file": "WA2525MEZF.webp",
+      "source": "https://www.lge.co.kr/kr/images/wash-tower/md10601842/gallery/medium01.jpg",
+      "sourcePage": "https://www.lge.co.kr/product/wash-tower/wa2525mezf",
+      "bytes": 21272,
+      "sha256": "8bf9445ee6dc2a6a4843bbb9d259ee9fc81ed9535652b82aaf9fcc637c437d6f",
+      "rights": "LG Electronics; local concept preview only; no reuse license asserted"
+    },
+    {
+      "model": "FH25GSG",
+      "file": "FH25GSG.webp",
+      "source": "https://www.lge.co.kr/kr/images/wash-combo/md10480829/gallery/medium01.jpg",
+      "sourcePage": "https://www.lge.co.kr/product/wash-combo/fh25gsg",
+      "bytes": 34214,
+      "sha256": "d0f132807be25f013fe3b299ab4c3ed083a221afc26e1ed474db18dd786dadd7",
+      "rights": "LG Electronics; local concept preview only; no reuse license asserted"
+    },
+    {
+      "model": "RH19WTWN",
+      "file": "RH19WTWN.webp",
+      "source": "https://www.lge.co.kr/kr/images/dryers/md09194829/gallery/medium01.jpg",
+      "sourcePage": "https://www.lge.co.kr/product/dryers/rh19wtwn",
+      "bytes": 38038,
+      "sha256": "5d5bdced5d09e31a6995ed3b6d677f0dac99e28ec15cab817ce55fb4a3046a7a",
+      "rights": "LG Electronics; local concept preview only; no reuse license asserted"
+    },
+    {
+      "model": "S3WGM",
+      "file": "S3WGM.webp",
+      "source": "https://www.lge.co.kr/kr/images/lg-styler/md10008827/gallery/medium01.jpg",
+      "sourcePage": "https://www.lge.co.kr/product/lg-styler/s3wgm",
+      "bytes": 5624,
+      "sha256": "19bb2f45bf1edd1f7b9155fd74b0b47bb839303a9122240bc0be77e174099000",
+      "rights": "LG Electronics; local concept preview only; no reuse license asserted"
+    },
+    {
+      "model": "AI958WA",
+      "file": "AI958WA.webp",
+      "source": "https://www.lge.co.kr/kr/images/vacuum-cleaners/md10587827/gallery/medium09.jpg",
+      "sourcePage": "https://www.lge.co.kr/product/vacuum-cleaners/ai958wa",
+      "bytes": 20502,
+      "sha256": "5439a557c8103ebc450c8681d705410cb1af33518d1cf4442c25dc77552a6f2b",
+      "rights": "LG Electronics; local concept preview only; no reuse license asserted"
+    },
+    {
+      "model": "R580WK1",
+      "file": "R580WK1.webp",
+      "source": "https://www.lge.co.kr/kr/images/vacuum-cleaners/md10249828/gallery/medium01.jpg",
+      "sourcePage": "https://www.lge.co.kr/product/vacuum-cleaners/r580wk1",
+      "bytes": 16716,
+      "sha256": "f5dd19b4c2289736ccd3cee4a453deced9401013ee32e14849cc24e50114751e",
+      "rights": "LG Electronics; local concept preview only; no reuse license asserted"
+    },
+    {
+      "model": "Q336MQQ153",
+      "file": "Q336MQQ153.webp",
+      "source": "https://www.lge.co.kr/kr/images/refrigerators/md10736833/gallery/medium01.jpg",
+      "sourcePage": "https://www.lge.co.kr/product/refrigerators/q336mqq153",
+      "bytes": 3252,
+      "sha256": "a2c183dfeb6c492c08a72dd95b7484a9f8a8a19f6af0ad325b4f6c68bc16426c",
+      "rights": "LG Electronics; local concept preview only; no reuse license asserted"
+    },
+    {
+      "model": "Z386GBB261",
+      "file": "Z386GBB261.webp",
+      "source": "https://www.lge.co.kr/kr/images/kimchi-refrigerators/md10792837/gallery/medium01.jpg",
+      "sourcePage": "https://www.lge.co.kr/product/kimchi-refrigerators/z386gbb261",
+      "bytes": 3958,
+      "sha256": "394a1008e69dd6fc2cddc44aa0d2342d4e0922a0de0c61d3ed4d0a8fde14bac4",
+      "rights": "LG Electronics; local concept preview only; no reuse license asserted"
+    },
+    {
+      "model": "W0082GLE",
+      "file": "W0082GLE.webp",
+      "source": "https://www.lge.co.kr/kr/images/winecellar/md09282826/gallery/medium01.jpg",
+      "sourcePage": "https://www.lge.co.kr/product/winecellar/w0082gle",
+      "bytes": 16118,
+      "sha256": "043f0ebb51a448e51b772342d4668a0e3c1dea0d3cac650f7ee5e9d5e7882da9",
+      "rights": "LG Electronics; local concept preview only; no reuse license asserted"
+    },
+    {
+      "model": "MLJ39EW",
+      "file": "MLJ39EW.webp",
+      "source": "https://www.lge.co.kr/kr/images/microwaves-and-ovens/md08980867/gallery/medium01.jpg",
+      "sourcePage": "https://www.lge.co.kr/product/microwaves-and-ovens/mlj39ew",
+      "bytes": 39884,
+      "sha256": "28ae915936ebed4b54f6857d3061b3082111317a64f1ea4f2891d88178a4655f",
+      "rights": "LG Electronics; local concept preview only; no reuse license asserted"
+    },
+    {
+      "model": "WU523AWB",
+      "file": "WU523AWB.webp",
+      "source": "https://www.lge.co.kr/kr/images/water-purifiers/md10035827/gallery/medium01.jpg",
+      "sourcePage": "https://www.lge.co.kr/product/care-solutions/water-purifiers/wu523awb",
+      "bytes": 4414,
+      "sha256": "2914a6dba648e1ce4827e124bfaeb4c9f435814d7e1be7be01c60329ba8f41b4",
+      "rights": "LG Electronics; local concept preview only; no reuse license asserted"
+    },
+    {
+      "model": "DUE1BGL",
+      "file": "DUE1BGL.webp",
+      "source": "https://www.lge.co.kr/kr/images/dishwashers/md10315869/gallery/medium11.jpg",
+      "sourcePage": "https://www.lge.co.kr/product/dishwashers/due1bgl",
+      "bytes": 135248,
+      "sha256": "8ff41e56b6209639146076d2c6dac802831d4814d497bc638808bbdeb0b0ef2f",
+      "rights": "LG Electronics; local concept preview only; no reuse license asserted"
+    },
+    {
+      "model": "BEF3ASMLOE",
+      "file": "BEF3ASMLOE.webp",
+      "source": "https://www.lge.co.kr/kr/images/electric-ranges/md10596843/gallery/medium01.jpg",
+      "sourcePage": "https://www.lge.co.kr/product/electric-ranges/bef3asmloe",
+      "bytes": 83122,
+      "sha256": "31fd8e4b81df2bc8751d84f0db772496f4e06964efae99634861b31f8a50e683",
+      "rights": "LG Electronics; local concept preview only; no reuse license asserted"
+    },
+    {
+      "model": "BB053NBB",
+      "file": "BB053NBB.webp",
+      "source": "https://www.lge.co.kr/kr/images/lg-homebrew/md09297826/gallery/medium01.jpg",
+      "sourcePage": "https://www.lge.co.kr/upappliance-list/bb053nbb",
+      "bytes": 23446,
+      "sha256": "7e75994b99af717dc07cd23f43876d69d42825a949a9a6050f34386ed2a360f4",
+      "rights": "LG Electronics; local concept preview only; no reuse license asserted"
+    },
+    {
+      "model": "L123E1P",
+      "file": "L123E1P.webp",
+      "source": "https://www.lge.co.kr/kr/images/lg-tiiun/md10069827/gallery/medium01.jpg",
+      "sourcePage": "https://www.lge.co.kr/product/lg-tiiun/l123e1p",
+      "bytes": 31076,
+      "sha256": "26b5a90a2b3b8d44d142e42a6d8133d3a2507f71f04d82bd0539f742582581f4",
+      "rights": "LG Electronics; local concept preview only; no reuse license asserted"
+    },
+    {
+      "model": "FQ18GC2ES2M",
+      "file": "FQ18GC2ES2M.webp",
+      "source": "https://www.lge.co.kr/kr/images/air-conditioners/md10781856/gallery/medium01.jpg",
+      "sourcePage": "https://www.lge.co.kr/product/air-conditioners/fq18gc2es2m",
+      "bytes": 7072,
+      "sha256": "2fa7fd6976cf6674d9bf69a50a2328121d9890aa60088cdecd0d1ecf9dcacde7",
+      "rights": "LG Electronics; local concept preview only; no reuse license asserted"
+    },
+    {
+      "model": "AS064PCBAR",
+      "file": "AS064PCBAR.webp",
+      "source": "https://www.lge.co.kr/kr/images/air-purifier/md10330829/gallery/medium01.jpg",
+      "sourcePage": "https://www.lge.co.kr/product/air-purifier/as064pcbar",
+      "bytes": 26158,
+      "sha256": "2deb961080be30f5487a6c5adc456b2dbec220e94fdc67f0a41ed7439bee59bc",
+      "rights": "LG Electronics; local concept preview only; no reuse license asserted"
+    },
+    {
+      "model": "DQ205PEGA",
+      "file": "DQ205PEGA.webp",
+      "source": "https://www.lge.co.kr/kr/images/dehumidifiers/md10544829/gallery/medium01.jpg",
+      "sourcePage": "https://www.lge.co.kr/product/dehumidifiers/dq205pega-akor",
+      "bytes": 9300,
+      "sha256": "580edf2ebb398d93175b482bccba3467ad400f4a60f3e54a8e70ad8eeb816681",
+      "rights": "LG Electronics; local concept preview only; no reuse license asserted"
+    },
+    {
+      "model": "FS065PSJC",
+      "file": "FS065PSJC.webp",
+      "source": "https://www.lge.co.kr/kr/images/air-purifier/md10526826/gallery/medium01.jpg",
+      "sourcePage": "https://www.lge.co.kr/product/air-purifier/fs065psjc",
+      "bytes": 17550,
+      "sha256": "52b7efc027081f9e451292a3509703adc949c2c8004c6f9f2dce4fcd3cdc7239",
+      "rights": "LG Electronics; local concept preview only; no reuse license asserted"
+    },
+    {
+      "model": "HY705RWUA",
+      "file": "HY705RWUA.webp",
+      "source": "https://www.lge.co.kr/kr/images/humidifiers/md10709832/gallery/medium02.jpg",
+      "sourcePage": "https://www.lge.co.kr/product/humidifiers/hy705rwua",
+      "bytes": 14256,
+      "sha256": "fc7e2b36df3595f7a71f92ba6a04be3e4c5c8ab3335a5a1d625271d296e1e13c",
+      "rights": "LG Electronics; local concept preview only; no reuse license asserted"
+    },
+    {
+      "model": "Z-H0201B2SL",
+      "file": "Z-H0201B2SL.webp",
+      "source": "https://www.lge.co.kr/kr/images/ventilation-system/md09492827/gallery/medium12.jpg",
+      "sourcePage": "https://www.lge.co.kr/product/ventilation-system/z-h0201b2sl",
+      "bytes": 6350,
+      "sha256": "468415c21eeb8c43b0f7c421675065992ee24012463a894d619ed7b7bbd93935",
+      "rights": "LG Electronics; local concept preview only; no reuse license asserted"
+    },
+    {
+      "model": "SS4RJS60E",
+      "file": "SS4RJS60E.webp",
+      "source": "https://www.lge.co.kr/kr/images/lg-styler/md09978826/gallery/medium01.jpg",
+      "sourcePage": "https://www.lge.co.kr/product/object-collection/ss4rjs60e",
+      "bytes": 13214,
+      "sha256": "00f889319d38ced8a9baea74bcbbd7b76c1cfddceeceac52774d8c364ebb8e52",
+      "rights": "LG Electronics; local concept preview only; no reuse license asserted"
+    },
+    {
+      "model": "SS1RJS20E",
+      "file": "SS1RJS20E.webp",
+      "source": "https://www.lge.co.kr/kr/images/lg-styler/md09978828/gallery/medium01.jpg",
+      "sourcePage": "https://www.lge.co.kr/product/shoe-care/ss1rjs20e",
+      "bytes": 31756,
+      "sha256": "bff1d5a7950e37225b89430f9464aec3f6c86b753d9d6a081ecb83462df5c319",
+      "rights": "LG Electronics; local concept preview only; no reuse license asserted"
+    }
+  ]
+}
